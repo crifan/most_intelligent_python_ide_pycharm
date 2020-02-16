@@ -1,0 +1,19 @@
+{
+  "title": "最智能的Python的IDE：PyCharm",
+  "description": "整理最智能的Python的IDE，PyCharm的各种好用功能，包括完整的Python项目开发的过程，从新建项目到项目调试，直到最后的项目部署和发布。包括期间涉及的Python版本的设置，文件编码设置等常见问题。以及详细阐述其智能体现在什么地方，包括了除了集成开发环境本身方便好用功能之外，还有项目配置、编辑Python文件期间的各种智能提示和自动处理，和调试期间的智能识别和显示，以及对git支持很人性化，以及其他一些方面的支持，比如REST、SciView、MongoDB、Markdown、ScientificMode等，最后总结一些常用的全局设置，和整理之前遇到的一些问题和经验心得。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "most_intelligent_python_ide_pycharm"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/most_intelligent_python_ide_pycharm/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/most_intelligent_python_ide_pycharm/pdf/most_intelligent_python_ide_pycharm.pdf"
+    }
+  }
+}
